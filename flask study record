@@ -1,0 +1,1 @@
+狗书代码结构: 1. app 下为蓝图 2.template have all htmls ,3.static has the picture and .css files. 4. _init_ 为create app,5. main function in same level of app.
